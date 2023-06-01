@@ -1,17 +1,17 @@
 {
   "files": {
     "main.css": "/static/css/main.b56f6b5a.css",
-    "main.js": "/static/js/main.60c15b8a.js",
+    "main.js": "/static/js/main.dd1d41d0.js",
     "static/js/787.1ed0c42c.chunk.js": "/static/js/787.1ed0c42c.chunk.js",
     "static/media/Omkar_Walavalkar_Resume.pdf": "/static/media/Omkar_Walavalkar_Resume.125ec412f916e8175fae.pdf",
     "static/media/home1.svg": "/static/media/home1.d56ba10ca4cf5960fa22db703521ae74.svg",
     "index.html": "/index.html",
     "main.b56f6b5a.css.map": "/static/css/main.b56f6b5a.css.map",
-    "main.60c15b8a.js.map": "/static/js/main.60c15b8a.js.map",
+    "main.dd1d41d0.js.map": "/static/js/main.dd1d41d0.js.map",
     "787.1ed0c42c.chunk.js.map": "/static/js/787.1ed0c42c.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.b56f6b5a.css",
-    "static/js/main.60c15b8a.js"
+    "static/js/main.dd1d41d0.js"
   ]
 }
