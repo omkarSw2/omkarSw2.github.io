@@ -1,19 +1,22 @@
 {
   "files": {
     "main.css": "/static/css/main.b56f6b5a.css",
-    "main.js": "/static/js/main.7ced13b6.js",
+    "main.js": "/static/js/main.ed30dde9.js",
     "static/js/787.1ed0c42c.chunk.js": "/static/js/787.1ed0c42c.chunk.js",
     "static/media/Home_img21.JPG": "/static/media/Home_img21.918e8355ea15b0bb16e5.JPG",
     "static/media/Screenshot 2023-06-01 180829.png": "/static/media/Screenshot 2023-06-01 180829.c2a807f0f95ec3123804.png",
+    "static/media/runfast.png": "/static/media/runfast.cd28e83274a431e7679b.png",
+    "static/media/shopnow.png": "/static/media/shopnow.ac20b100dc8ce580d0bc.png",
+    "static/media/gardenguru.png": "/static/media/gardenguru.84c80b0efe332b4f3b5c.png",
     "static/media/Omkar_Walavalkar_Resume.pdf": "/static/media/Omkar_Walavalkar_Resume.125ec412f916e8175fae.pdf",
     "static/media/home1.svg": "/static/media/home1.d56ba10ca4cf5960fa22db703521ae74.svg",
     "index.html": "/index.html",
     "main.b56f6b5a.css.map": "/static/css/main.b56f6b5a.css.map",
-    "main.7ced13b6.js.map": "/static/js/main.7ced13b6.js.map",
+    "main.ed30dde9.js.map": "/static/js/main.ed30dde9.js.map",
     "787.1ed0c42c.chunk.js.map": "/static/js/787.1ed0c42c.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.b56f6b5a.css",
-    "static/js/main.7ced13b6.js"
+    "static/js/main.ed30dde9.js"
   ]
 }
