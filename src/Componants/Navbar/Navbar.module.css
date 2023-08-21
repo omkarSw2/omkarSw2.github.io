@@ -1,0 +1,13 @@
+.nav_name {
+  background-color: dodgerblue;
+  /* min-height: fit-content; */
+  display: flex;
+  /* flex-direction: row; */
+  /* justify-content: space-between; */
+}
+
+.nav_links>h2{
+    display: flex;
+   
+
+}

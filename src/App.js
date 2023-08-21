@@ -1,21 +1,24 @@
 // import logo from './logo.svg';
 import "./App.css";
-import AboutSection from "./Componants/AboutSection";
-import ContactSection from "./Componants/ContactSection";
-import HomeSection from "./Componants/HomeSection";
-import Navbar from "./Componants/Navbar";
-import ProjectsSection from "./Componants/ProjectsSection";
-import SkillsSection from "./Componants/SkillsSection";
+import About from "./Componants/AboutSection/About";
+import Contact from "./Componants/ContactSection/Contact";
+import Home from "./Componants/HomeSection/Home";
+
+import Navbar from "./Componants/Navbar/Navbar";
+import Project from "./Componants/ProjectSection/Project";
+
+import Skill from "./Componants/SkillsSection/Skill.jsx";
 
 function App() {
   return (
     <div className="App">
       <Navbar />
-      <HomeSection />
-      <AboutSection />
-      <SkillsSection />
-      <ProjectsSection />
-      <ContactSection />
+
+      <Home />
+      <About />
+      <Skill />
+      <Project />
+      <Contact />
     </div>
   );
 }
